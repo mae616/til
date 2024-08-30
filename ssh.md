@@ -1,4 +1,4 @@
-ssh -i ~/.ssh/id_sakuravps ubuntu@153.127.36.154
+ssh -i ~/.ssh/id_sakuravps ubuntu@(ip)
 
 https://vps-one.site/setting-for-ubuntu-sakura-vps/
 
@@ -11,7 +11,7 @@ vim
 
 
 
-ssh -i ~/.ssh/id_sakuravps mae@153.127.36.154
+ssh -i ~/.ssh/id_sakuravps mae@(ip)
 
 chmod 700 .ssh
 
